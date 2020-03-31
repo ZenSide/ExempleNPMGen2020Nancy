@@ -12,6 +12,7 @@
     "@fancyapps/fancybox": "^3.5.7",
     "@popperjs/core": "^2.1.1",
     "bootstrap": "^4.4.1",
+    "datatables.net": "^1.10.20",
     "jquery": "^3.4.1"
   }
 }
